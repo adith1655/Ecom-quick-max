@@ -1,0 +1,1 @@
+{"id": "quick-max-e-commerce-s6e2", "lang": "typescript"}
