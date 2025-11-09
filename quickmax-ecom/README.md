@@ -1,8 +1,10 @@
 # Quick Max E-commerce 🚀
 
-This repository contains the source code for **Quick Max E-commerce**, a platform designed to deliver a best-in-class user experience. Our goal is to take online shopping to the *max* with *quick* load times, intuitive navigation, and a seamless checkout process.
+This repository contains the source code for **Quick Max E-commerce**, a platform designed to deliver a best-in-class user experience. 
 
-### Staging Link
+MADE BY: ADITH ULLAS NAMBIAR (23FE10CAI00274) & RAGHAV CHUGH (23FE10CAI00471)
+
+### Deployment Link
 
 You can view the latest development build live at our staging site:
 
